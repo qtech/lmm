@@ -1,0 +1,35 @@
+ .site-header{
+ 	background-color: #2f2f2f !important;
+  	border-bottom-color: #304b58 !important;
+  }
+
+  .site-header .site-logo img {
+    float: left;
+    height: 75px !important;
+    position: relative;
+    top: -18px !important;
+    right: -50px !important;
+}
+
+.show-hide-sidebar{
+    left: -75px !important;
+}
+
+.ajdust-label-forms
+{
+	line-height: 50px;
+}
+
+.custom-alignment {
+    margin-top: -20px !important;
+    margin-bottom: 10px !important;
+}
+
+.custom-modal-alignment{
+  padding: 0px !important;
+  padding-right: 15px !important;
+}
+
+.CodeMirror, .CodeMirror-scroll {
+  min-height: 150px !important;
+}
